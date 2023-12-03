@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Beats Solo3 Wireless on-Ear Headphones",
+    "description": "The Beats Solo3 Wireless on-Ear Headphones are a premium set of headphones that feature Bluetooth connectivity, up to 40 hours of battery life, and on-ear controls for adjusting volume and switching tracks. they have a sleek stylish design and come in a variety of colors. they also have a build-in microphone for taking calls and use the Apple W1 chip for easy and stable connectivity with Apple services",
+    "price": 199.95,
+    "category": "Headphones",
+    "seller": "Beats by Dr. Dre",
+    "stock": 500,
+
+    "images": [
+      {
+        "public_id": "/products/beats_by_dr_dre_mx432ll_a_solo3_wireless_headphones_1512399_oukh4y.jpg",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701133940/products/beats_by_dr_dre_mx432ll_a_solo3_wireless_headphones_1512399_oukh4y.jpg"
+      },
+      {
+        "public_id": "/products/beats2_bybl2i",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701134091/products/beats2_bybl2i.jpg"
+      },
+      {
+        "public_id": "/products/beats3_ps1o59",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701134098/products/beats3_ps1o59.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 2
+  },
+  {
+    "name": "Smartphone Galaxy S21",
+    "description": "The Galaxy S21 is a high-end smartphone with a stunning display, powerful camera system, and fast performance. It features a 6.2-inch Dynamic AMOLED display, a triple-lens rear camera with 64MP main sensor, 8GB RAM, and 128GB internal storage. Stay connected in style with the sleek and modern Galaxy S21.",
+    "price": 899.99,
+    "category": "Electronics",
+    "seller": "Samsung",
+    "stock": 200,
+    "images": [
+      {
+        "public_id": "/products/01_galaxys21_phantom_pink_front_iegs6e",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701137164/products/01_galaxys21_phantom_pink_front_iegs6e.jpg"
+      },
+      {
+        "public_id": "/products/samsung-galaxy-s21-fe-5g-graphite-128gb-and-6gb-ram-sm-g990b-ds-back_ishmyp",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701137169/products/samsung-galaxy-s21-fe-5g-graphite-128gb-and-6gb-ram-sm-g990b-ds-back_ishmyp.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 4
+  },
+
+  {
+    "name": "Laptop Inspiron 15",
+    "description": "The Dell Inspiron 15 is a powerful and versatile laptop suitable for work and entertainment. It features a 15.6-inch Full HD display, Intel Core i7 processor, 16GB RAM, and 512GB SSD storage. With a sleek design and long-lasting battery, the Inspiron 15 is a reliable companion for your computing needs.",
+    "price": 1099.99,
+    "category": "Laptops",
+    "seller": "Dell",
+    "stock": 150,
+    "images": [
+      {
+        "public_id": "/products/Laptop-Dell-Inspiron-3993-15.6-Intel-Core-I3_rx6j3g.jpg",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701137762/products/Laptop-Dell-Inspiron-3993-15.6-Intel-Core-I3_rx6j3g.jpg"
+      },
+      {
+        "public_id": "/products/laptop-inspiron-15-side_zgbdhz.jpg",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701137772/products/laptop-inspiron-15-side_zgbdhz.jpg"
+      },
+      {
+        "public_id": "/products/laptop-inspiron15-back_acdhmj",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701137759/products/laptop-inspiron15-back_acdhmj.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 5
+  },
+  {
+    "name": "Wireless Bluetooth Earbuds Yamaha",
+    "description": "Experience true wireless freedom with these Bluetooth earbuds. They offer crystal-clear sound, a comfortable fit, and easy pairing with your devices. With a sleek charging case, you can enjoy music on the go without worrying about battery life.",
+    "price": 79.99,
+    "category": "Headphones",
+    "seller": "TechSound",
+    "stock": 300,
+    "images": [
+      {
+        "public_id": "/products/eatbuts-yamaha_hbajn7.jpg",
+        "url": "https://res.cloudinary.com/dufybs4ch/image/upload/v1701137786/products/eatbuts-yamaha_hbajn7.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 3
+  },
+  {
+    "name": "Shure SM7B Cardioid Dynamic Microphone",
+    "price": 349,
+    "description": "The Shure SM7B is a cardioid dynamic microphone that is designed for use in a variety of settings, including live performances, podcasting, and home recording. It features a smooth, flat, wide-range frequency response and a built-in pop filter and shock mount for reduced noise and handling noise.",
+    "category": "Electronics",
+    "seller": "Shure",
+    "stock": 5,
+    "images": [
+      {
+        "public_id": "buyitnow/products/gclqht0hjco0jyy9s2bx",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393848/buyitnow/products/gclqht0hjco0jyy9s2bx.jpg"
+      },
+      {
+        "public_id": "buyitnow/products/qdilqh5oizvnwfu2bkzq",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393852/buyitnow/products/qdilqh5oizvnwfu2bkzq.jpg"
+      },
+      {
+        "public_id": "buyitnow/products/cjtvzn5crbcyddo2hlai",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393855/buyitnow/products/cjtvzn5crbcyddo2hlai.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 4.5
+  },
+  {
+    "name": "AmazonBasics Desktop Mini Condenser Microphone",
+    "price": 12.99,
+    "description": "The AmazonBasics Desktop Mini Condenser Microphone is a compact and affordable option for recording vocals, instruments, and more. It features a cardioid polar pattern for improved sound isolation and a built-in stand for easy placement. Compatible with most devices with a 3.5mm jack.",
+    "category": "Electronics",
+    "seller": "AmazonBasics",
+    "stock": 1000,
+    "images": [
+      {
+        "public_id": "buyitnow/products/fqxj6dfj5r8s4oaagz0l",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393888/buyitnow/products/fqxj6dfj5r8s4oaagz0l.jpg"
+      },
+      {
+        "public_id": "buyitnow/products/e12y4ylevohb5usvw06x",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393890/buyitnow/products/e12y4ylevohb5usvw06x.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 3.5
+  },
+  {
+    "name": "KOORUI Business Computer Monitor Display",
+    "price": 139.99,
+    "description": "The KOORUI Business Computer Monitor Display is a 27-inch LED monitor that features a 1080P resolution and a wide viewing angle. It has a sleek and slim design with a thickness of only 7mm and a frameless design. The monitor supports VESA mount and it is compatible with most computer systems.",
+    "category": "Laptops",
+    "seller": "KOORUI",
+    "stock": 1000,
+    "images": [
+      {
+        "public_id": "buyitnow/products/jpp9bg2uaywrq4kpyzlo",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393914/buyitnow/products/jpp9bg2uaywrq4kpyzlo.jpg"
+      },
+      {
+        "public_id": "buyitnow/products/yuvap3tajtqe5wbuhlxz",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393916/buyitnow/products/yuvap3tajtqe5wbuhlxz.jpg"
+      },
+      {
+        "public_id": "buyitnow/products/hqu1oeutqwsxxs0vnupz",
+        "url": "http://res.cloudinary.com/shopitnow-udemy/image/upload/v1674393923/buyitnow/products/hqu1oeutqwsxxs0vnupz.jpg"
+      }
+    ],
+    "reviews": [],
+    "ratings": 2.5
+  }
+]
